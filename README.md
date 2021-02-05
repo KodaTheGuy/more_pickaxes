@@ -67,10 +67,6 @@ For further information or help, see:\
 
 - `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 
-### Optional dependencies
-
-- [`3d_armor`](https://github.com/minetest-mods/3d_armor)
-
 ## Requirements
 
 It shall work with MT 5.0.0 and above.
